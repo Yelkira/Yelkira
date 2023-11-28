@@ -32,9 +32,9 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 
 ## 𝗦𝘁𝗮𝘁𝘀
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yelkira&theme=solarized_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yelkira&layout=compact)](https://github.com/Yelkira/github-readme-stats) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yelkira&theme=solarized_dark)
 
-Credit: Yelkira
+𝘊𝘳𝘦𝘥𝘪𝘵: 𝘠𝘦𝘭𝘬𝘪𝘳𝘢
 
-Last Edited on: 29.11.2023
+𝘓𝘢𝘴𝘵 𝘌𝘥𝘪𝘵𝘦𝘥 𝘰𝘯: 𝟮𝟵.𝟭𝟭.𝟮𝟬𝟮𝟯
